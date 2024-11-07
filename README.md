@@ -2,7 +2,7 @@
 
 ## Scripts
 
-### `npm run start`
+### `npm start`
 
 In a seperate terminal run
 
